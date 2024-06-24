@@ -38,3 +38,8 @@ Realiza un análisis descriptivo integral enfocándote en los siguientes aspecto
 Basado en tu análisis de datos, proporciona al menos tres recomendaciones estratégicas para IronHack Media. Estas recomendaciones deben derivarse de tus percepciones basadas en datos y apuntar a mejorar el rendimiento del negocio, la eficiencia o la rentabilidad. Todo deberá ser realizado con PowerBi.
 
 Evaluaremos no solo tu capacidad para realizar un análisis exhaustivo, sino también tu habilidad para presentar y comunicar los hallazgos. ¡Buena suerte!
+
+## Análisis
+
+- Tableau 
+- https://docs.google.com/presentation/d/10mkl7b7vmf9V6dufr5bPAGPglvgWcQnN4EXz5roMpJQ/edit?usp=sharing 
